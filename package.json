@@ -1,6 +1,31 @@
 {
   "name": "cra-template-reacteur",
   "version": "0.2.0",
+  "license": "MIT",
+  "author": "Brice Lesné brice@thereact.dev",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "template.json",
+  "description": "A clean start Create React App template !",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cebri63/cra-template-reacteur",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/Cebri63/cra-template-reacteur/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
